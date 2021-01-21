@@ -1,0 +1,19 @@
+.Digit {
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+  border-radius: 50%;
+  margin: 40px;
+  padding-top: 20px;
+}
+
+/* @media only screen and (max-width: 600px) {
+  .Digit {
+    width: 50px;
+    height: 50px;
+  }
+
+  .Digit h1 {
+    font-size: 18px;
+  }
+} */
